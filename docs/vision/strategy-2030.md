@@ -58,6 +58,13 @@ We are limited in the number of ‘top level’ KPIs as an ecosystem we can prio
 - This initial focus provides the community with immediate KPI’s to support with alignment of treasury  funding decisions while the comprehensive framework is developed. We expect to develop this fuller and more comprehensive set of KPIs for the evolution of the Cardano blockchain in early 2026 and will work closely with the community and the other committees to shape the KPI direction. This will also include developing Marketing KPIs to broaden reach and engagement, drive positive perceptions and bring more users to the chain..
 - As part of the review of KPIs with the community we will also aim to support a strategy on how metrics are more effectively tracked and reported on, including supporting the creation of relevant dashboards.
 
+# NOTE: Adding complementary adoption and usability metrics context to KPI framework
+The framework primarily measures activity outcomes rather than the quality of user and developer experience that drives sustained adoption. Complementary usability and behavioral metrics could strengthen evaluation of progress toward Cardano’s 2030 vision. KPI’s should measure not only whether usage exists, but why usage succeeds or fails.
+
+Indicators such as wallet retention, onboarding success, time to first transaction, repeat usage patterns, developer deployment experience, and application usage depth would help assess whether ecosystem products are not only being used, but are usable, accessible, and capable of sustaining long-term engagement. Since wallets function as the primary access layer to the blockchain for users, improvements in wallet engagement and retention serve as strong signals of meaningful adoption.
+
+Combining protocol level and adoption KPIs with usability oriented indicators would provide a more complete picture of ecosystem maturity. This would enable product decisions to be informed by both network performance and real world user data, as this is the focus outlined per Cardano’s 2030 vision “… accelerate customer acquisition, improve retention, and strengthen its overall market positioning.” 
+
 **A note on terminology**  
 
 ***Metrics*** are quantifiable measures that track specific aspects of ecosystem activity. They provide raw data points that can be monitored over time. Examples include transaction count, wallet addresses, smart contract deployments, and fee volumes. Metrics answer the question: "What is happening?"
